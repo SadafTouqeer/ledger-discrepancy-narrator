@@ -1,0 +1,10 @@
+transaction_id,date,amount,type,counterparty,status
+TXN001,2026-06-01,5000.00,invoice,ABC Corp,cleared
+TXN002,2026-06-02,1200.00,invoice,XYZ Ltd,cleared
+TXN003,2026-06-03,4200.00,refund,ABC Corp,cleared
+TXN003,2026-06-03,4200.00,refund,ABC Corp,cleared
+TXN004,2026-06-04,800.00,invoice,DEF Inc,cleared
+TXN005,2026-06-07,3500.00,invoice,GHI LLC,cleared
+TXN006,2026-06-06,950.00,invoice,JKL Co,cleared
+TXN007,2026-06-07,2200.00,payment,XYZ Ltd,cleared
+TXN008,2026-06-08,1755.00,invoice,MNO Corp,cleared
